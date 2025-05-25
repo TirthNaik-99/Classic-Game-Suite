@@ -1,1 +1,1 @@
-# Classic-Game-Suite
+# ClassicGameSuite
